@@ -1,0 +1,32 @@
+.footer1{
+    display: flex;
+    margin-top: 3px;
+    max-width: 100%;
+    background-color: rgb(56,128,135);
+    color: white;
+}
+.footer2{
+    font-size: 20px;
+    font-family: sans-serif;
+    width: 100%;
+    margin: 20px;
+    margin-left: 50px;
+}
+.footer3{
+    margin: 20px;
+    font-family: sans-serif;
+    width: 40%;
+}
+.email{
+    font-size: 35px;
+    color: white;
+}
+.logo12{
+    padding: 20px;
+    width: 30px;
+}
+
+.imag1{
+    width: 140px;
+    margin-bottom: 8px;
+}
